@@ -1,12 +1,13 @@
-Lawn Booking Management System (Java Swing)
-📌 Project Overview
+**Lawn Booking Management System (Java Swing)**
+
+📌 **Project Overview**
 
 The Lawn Booking Management System is a Java-based desktop application developed using Swing GUI.
 It allows users to book lawns for events and enables the admin to manage lawns and bookings.
 
 This project demonstrates the practical use of:
 
-Object-Oriented Programming (OOP)
+**Object-Oriented Programming (OOP)**
 
 Data Structures (Lists)
 
@@ -16,14 +17,14 @@ Searching (Binary Search)
 
 GUI-based interaction using Java Swing
 
-🎯 Features
+🎯 **Features**
 🔐 Login System
 
 Secure login for Admin and User
 
 Role-based access control
 
-👨‍💼 Admin Features
+👨‍💼 **Admin Features**
 
 Add new lawns
 
@@ -37,7 +38,7 @@ Automatically sort lawns using Bubble Sort
 
 Search lawns using Binary Search
 
-👤 User Features
+👤 **User Features**
 
 View available lawns
 
@@ -49,7 +50,7 @@ View personal booking history
 
 Check payment status
 
-🧠 Concepts Used
+🧠 **Concepts Used**
 
 OOP Concepts
 
@@ -69,11 +70,11 @@ Bubble Sort (for sorting lawns)
 
 Binary Search (for searching lawns)
 
-GUI
+**GUI**
 
 Java Swing (JFrame, JButton, JLabel, JOptionPane)
 
-🏗️ Project Structure
+🏗️ **Project Structure**
 LawnBookingGUI.java
 │
 ├── Lawn.java          → Lawn details (number, type, availability)
@@ -82,7 +83,7 @@ LawnBookingGUI.java
 ├── AdminMenu          → Admin GUI panel
 └── UserMenu           → User GUI panel
 
-🧪 Default Login Credentials
+🧪 **Default Login Credentials**
 Admin Login
 
 Email: admin@lawn.com
@@ -95,7 +96,7 @@ Email: user@lawn.com
 
 Password: user123
 
-▶️ How to Run the Project
+▶️ **How to Run the Project**
 
 Open the project in NetBeans / IntelliJ / Eclipse
 
@@ -108,7 +109,7 @@ LawnBookingGUI.java
 
 Login using the provided credentials
 
-📸 GUI Technology
+📸 **GUI Technology**
 
 Java Swing
 
@@ -116,7 +117,7 @@ JOptionPane for user interaction
 
 JFrame-based windows
 
-📚 Learning Outcomes
+📚 **Learning Outcomes**
 
 Practical implementation of Java GUI
 
@@ -126,7 +127,7 @@ Understanding of real-world booking systems
 
 Improved grip on OOP concepts
 
-🚀 Future Enhancements
+🚀 **Future Enhancements**
 
 Database connectivity (MySQL)
 
@@ -138,7 +139,7 @@ Improved UI design
 
 Multiple lawn selection
 
-👨‍🎓 Author
+👨‍🎓 **Author**
 
 Shakar Uddin
 Software Engineering Student
